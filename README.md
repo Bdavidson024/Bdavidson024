@@ -4,8 +4,12 @@
 - 🌱 I’m currently majoring Computer and Information Technology with a submajor in Programming at the local community college. I'll have my associates degree
       finished by Summer 2022 and I am extremely excited about getting into the workforce. Anyone that can drop some knowledge on me regarding jobs in the IT or networking fields
       world would be greatly appreciated.
-- 💞️ Eventually, I want to create a few Android apps that I'm confident will be successful and I cant believe they havn't been put out there by someone yet! At the       moment,
-      though, I'll be working on my first website, and will gladly take any help and/or criticism in hopes to make me a better programmer.
+- 💞️ Eventually, I want to create a few Android apps that I'm confident will be successful and I cant believe they havn't been put out there by someone yet! At the moment,
+      though, I'll be working on my first website,        KYAUTOKING.COM          Which will contain my blog (growers journal) along with product reviews, some grower's tutorials,       it will have links to sites that have been absolute life savers for me(that way you guys dont have to struggle the way I did in certain aspects)such as the best             marijuana seed bank in existence and another site that has allllll the best gear from hoodies to ashtray lol scraig.  And eventually,hopefully, I can grow my name and my           brand and start selling my own merch and things like that..oneday..gotta start somewhere right!!!
+      
+     
+      
+      and will gladly take any help and/or criticism in hopes to make me a better programmer.
 - 📫 If you're looking to get in touch with me, feel free to email me anytime at kyautoking@kyautoking.com or DM me on my Instagram page, handle: the_kentucky_autoflower_king
 
 
