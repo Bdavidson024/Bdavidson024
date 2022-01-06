@@ -14,7 +14,7 @@
 <ul>
        <li>Yo, what's up guys? 31 years young, father to a beautifu 6-year-old, cannabis industry influencer</li><br>
        <li>I’m interested in cannabis cultivation and being active in the growing cannabis community. I work at a hydroponic grow shop in Louisville, KY and 
-      also at One Love Hemp Dispensary.</li><br>
+      also a Hemp Dispensary.</li><br>
       <li>I’m currently majoring Computer and Information Technology with a submajor in Programming at the local community college. I'll have my associates degree
       finished by Summer 2022 and I am extremely excited about getting into the workforce. Anyone that can drop some knowledge on me regarding jobs in the IT or networking fields
       world would be greatly appreciated.</li><br>
