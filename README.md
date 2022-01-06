@@ -25,16 +25,18 @@
 <br>
 
       <p><a href="https://rocketseeds.com/#a_aid=AUTOKING&amp;a_bid=f6a7fc88" target="_top"><img src="//www.greenaffiliates.com/accounts/default1/nxkkkeyb/f6a7fc88.jpg" alt="Rocket Seeds - Blast Into Spring With Rocket Seeds Facebook Banner 1200x628" title="Rocket Seeds - Blast Into Spring With Rocket Seeds Facebook Banner 1200x628" width="600" height="400" /></a>
-      <p>and remember that site with all the DOPE CANNABIS GEAR that I mentioned?? Get 15% off your order with the link below!</p>
+     
+            
+<p>and remember that site with all the DOPE CANNABIS GEAR that I mentioned?? Get 15% off your order with the link below!
+            
+                        
+<a href="https://www.SmokieJ.com/discount/Kentucky/" target="_blank"> Sickest Gear on the Internet, IMO!!! </a></p><br>
             
             
-      <p><a href="https://www.SmokieJ.com/discount/Kentucky" target="_blank"> Sickest Gear on the Internet, IMO!!! </a><p><br>
-            
-      
-      <p>I am most definitely open to any and all help and criticism! If you're looking to get in touch with me, feel free to email me anytime at 
+<p>I am most definitely open to any and all help and criticism! If you're looking to get in touch with me, feel free to email me anytime at 
       <a href="mailto:kyautoking@kyautoking.com">kyautoking@kyautoking.com</a><br>
    
-      <p>DM me on my <a href="https://www.instagram.com/the_kentucky_autoflower_king/">Instagram page</a></p><br>
+      <p>DM me on my <a href="https://www.instagram.com/the_kentucky_autoflower_king/">Instagram page</a><br>
 
       <p>Hit me up on <a href="https://www.facebook.com/KENTUCKYAUTOKING/">Facebook</a></p>
 
