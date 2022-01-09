@@ -1,4 +1,5 @@
 <!DOCTYPE html> <meta charset="UTF-8">
+<title>The Kentucky Autoflower King</title>
 <html><head>
      
     <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.1.2/handlebars.min.js"></script>
