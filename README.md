@@ -1,19 +1,14 @@
 <!DOCTYPE html> <meta charset="UTF-8">
-<html><head>
-     
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.1.2/handlebars.min.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<html lang="en">
+<head>
+     <link rel"stylesheet" href="css/stylesheet.css">
 
      
-</head><body>
-<p>
+</head>
+<body>
      <h1> The Kentucky Autoflower King</h1>
-</p>
-<p>
+     <br>
      <h2> Welcome! And thanks for visiting my page!</h2>
-</p>
 <p>
      <h2> The AutoKings Grow Journal coming to the page soon, <br> right now you can check it out <a href="https://thekyautoking.blogspot.com">HERE</a></h2>
 </p>
@@ -30,18 +25,7 @@
 <p>
      <a href="https://rocketseeds.com/#a_aid=AUTOKING&amp;a_bid=f6a7fc88" target="_top"><img src="//www.greenaffiliates.com/accounts/default1/nxkkkeyb/f6a7fc88.jpg" alt="Rocket Seeds - Blast Into Spring With Rocket Seeds Facebook Banner 1200x628" title="Rocket Seeds - Blast Into Spring With Rocket Seeds Facebook Banner 1200x628" width="600" height="400" /></a>
 </p>          
-<p>
-     Check out the DOPEST CANNABIS GEAR in the industry! And use the link below to get 15% off your order!!
-</p>          
-<p>                        
-     https://www.SmokieJ.com/discount/Kentucky/
-</p>
-<p> 
-      Copy and paste this link into your browser if the one above is not working correctly: https:/www.SmokieJ.com/discount/Kentucky/
-</p>
-<br>
-            
-            
+<br>           
 <p>
      I am most definitely open to any and all help and criticism! If you're looking to get in touch with me, feel free to email me anytime at 
       <a href="mailto:kyautoking@kyautoking.com">kyautoking@kyautoking.com</a>
@@ -57,13 +41,3 @@
 
 </body>
 </html>
-
-<!---
-Bdavidson024/Bdavidson024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!---
-Bdavidson024/Bdavidson024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
