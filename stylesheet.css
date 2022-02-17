@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(114, 167, 95);
+}
+
+.container {
+    margin: 5%;
+    padding: 5%;
+}
+
+ul.menu {
+    display: block;
+    text-align: center;
+}
+
+li.nav {
+    background-color: rgb(170, 169, 169);
+    font-size: x-large;
+    font-weight: bold;
+    float: none;
+    display: block;
+    text-align: center;
+    padding: 18px;
+    border: 3px double black;
+}
+
+h1,
+h2,
+h3 {
+    color: rgb(14, 53, 14);
+    text-align: center;
+}
+
+.plant1 {
+    float: left;
+    width: 40%;
+    padding: 5%;
+}
+
+.plant2 {
+    float: right;
+    width: 40%;
+    padding: 5%;
+}
+
+section::after {
+    content: " ";
+    clear: both;
+    display: block;
+    background-color: rgb(170, 169, 169);
+}
+
+p {
+    font-family: sans-serif;
+    font-size: large;
+    color: rgb(14, 53, 14);
+}
+
+ul.footer {
+    background-color: rgb(170, 169, 169);
+    text-align: center;
+    font-size: x-large;
+}
